@@ -1,0 +1,503 @@
+
+@media all and (max-width: 1350px) { 
+		
+	.text .buttons span {
+		font-size: 75%;
+	}
+
+	.video-background {
+		width: 100%;
+	}
+}
+
+
+
+@media all and (max-width: 1200px) { 
+	#pulsline {
+		width: 85%;
+	}
+	
+
+	.text .flipover .question {
+		display: none;
+	}
+
+	
+	.home li span {
+	    margin-left: 0; 
+	}
+
+	.carousel-wrapper {
+	    width: 86%;
+	}
+
+	.carousel-button-left {
+	    margin-left: 20px;
+	}
+	
+}
+
+@media all and (max-width: 1130px) { 
+	
+	/*.text .buttons li:nth-child(3) span {
+		font-size: 76%;
+		line-height: normal;
+		position: absolute;
+    	top: 20px;
+    	left: 0;
+	}*/
+	
+	section.services {
+	    min-height: 510px;
+	    height: 510px;
+	}
+}
+
+
+
+@media all and (max-width: 1030px) { 
+	.services h2 span::before,
+	.services h2 span::after,
+	section.sixth.about h2 span::before,
+	section.sixth.about h2 span::after,
+	section.eightth.contact h2 span::before,
+	section.eightth.contact h2 span::after {
+		display: none;
+	}
+
+	#contact-form {
+	    margin-left: 5px;
+	    margin-right: 5px;
+	}
+
+
+}
+
+@media all and (max-width: 990px) { 
+	.carousel-wrapper {
+	    width: 70%;
+	}
+}
+
+@media all and (max-width: 960px) { 
+	nav ul {
+	    width: 82%;
+	}
+	
+	ul.doctors {
+		zoom: 90%;
+	}
+
+}
+
+@media all and (max-width: 910px) { 
+	
+	.nav li a {
+        padding: 0 15px;
+	}
+
+	.carousel-wrapper {
+	    width: 48%;
+	}
+}
+
+
+@media all and (max-width: 890px) { 
+	
+	.nav li a {
+        padding: 0 15px;
+	}
+}
+
+@media all and (max-width: 874px) { 
+	
+	ul.doctors {
+	    zoom: 80%; 
+	}
+
+	section.services {
+	    min-height: 550px;
+	    height: 550px;
+	}
+}
+
+
+@media all and (max-width: 815px) { 
+	
+	.home .text h3 {
+	    font-size: 0.4em;
+	}
+
+	.carousel-wrapper {
+	    width: 55%;
+	}
+}
+
+
+@media all and (max-width: 780px) { 
+
+	nav ul {
+	    width: 80%;
+	}
+
+	.nav li a {
+        /*padding: 0 5px;*/
+       text-transform: none;
+       font-size: 1em;
+	}
+
+	section.third .computers {
+	    zoom: 80%;
+	}
+	
+	img.pulsline {
+		width: 85%;
+	}
+
+	section.fifth {
+        height: 1130px; 
+	}
+
+	section.fifth .wrap_fifth {
+		height: 1130px; 
+	}
+	
+	section.fifth h3.doc_h3 {
+	    padding: 50px 0 15px; 
+	}
+
+	ul.doctors li {
+		width: 45%;
+		zoom: 100%;
+	}
+
+	ul.doctors li {
+	    margin-top: 40px;
+	}
+
+
+
+	section.seventh.numbers ul {
+	    margin-top: 30px;
+	}
+
+	section.seventh.numbers {
+	    min-height: 650px;
+	}
+
+	section.seventh .pattern {
+        min-height: 650px;
+	}
+
+	section.seventh.numbers li.flipover  {
+		margin-top: 25px;
+		width: 30%;
+	}
+}
+
+
+@media all and (max-width: 730px) { 
+
+	.nav li a {
+        padding: 0 10px;
+    }
+
+    .home .text h1 span {
+	    position: relative;
+	    font-size: 0.8em;
+	}
+
+	.home ul.buttons {
+    	width: 76%;
+    }
+
+    .carousel-wrapper {
+	    width: 61%;
+	}
+
+	.services p {
+	    width: 95%; 
+	}
+
+	section.third p {
+	    width: 95%; 
+	}
+
+	.string2 {
+	    width: 95%; 
+	}
+
+	.btn-cont .question, .btn-cont .answer {
+   	    display: none; 
+	}
+
+	.btn-cont span {
+	    margin-left: 0; 
+	}
+
+}
+
+
+@media all and (max-width: 680px) { 
+
+	nav ul {
+	    width: 77%;
+	}
+
+	.nav li a {
+        padding: 0 8px;
+    }
+
+    .carousel-wrapper {
+	    width: 67%;
+	}
+
+	.home ul.buttons {
+		display: none;
+	}
+ 
+}
+
+
+@media all and (max-width: 630px) { 
+	
+	nav ul {
+	    width: 71%;
+	}
+	
+	.nav li a {
+		line-height: 38px;
+	}
+
+	.home .text h1 span::before,
+	.home .text h1 span::after {
+		display: none;
+	}
+
+	.carousel {
+	   display: none;
+	}
+  	
+  	section.services {
+        min-height: 220px;
+	    height: 220px;
+	}
+
+	section.third .computers {
+	   zoom: 67%;
+	}
+	
+	section.fifth .text-car h3 {
+        font-size: 1.2em; 
+	}
+
+
+}
+
+
+
+@media all and (max-width: 600px) { 
+	
+	.services p {
+	   font-size: 1em;
+	}
+
+	section.fourth .left-col {
+	    width: 100%; 
+	}
+
+	section.fourth .right-col {
+	    width: 100%;
+	}
+
+	section.fourth .devider { 
+		display: none;
+	}
+
+	section.sixth.about .left-col {
+        width: 100%; 
+	}
+
+	section.sixth.about .right-col {
+		margin-top: 30px;
+		width: 100%;
+	}
+
+	.left-col-cont {
+	    width: 100%; 
+	}
+
+	.right-col-cont {
+    	width: 100%;
+    }
+	
+	.btn-cont span {
+  	  font-size: 1.3em;
+	}
+    
+    section.ninth.cont-det h5 {
+    	width: 90%;
+    }
+
+   section.ninth.cont-det .flipover {
+        width: 100%; 
+	}
+
+	section.third .computers {
+	   zoom: 55%;
+	}
+	
+}
+
+
+@media all and (max-width: 550px) { 
+
+	section.fifth {
+	    height: 1165px;
+	}
+
+	section.fifth .wrap_fifth {
+	    height: 1165px;
+	}
+
+	section.fifth .text-car h3 {
+	    font-size: 1em;
+	}
+
+
+}
+
+@media all and (max-width: 480px) { 
+	#logo img {
+	    margin: 5px 0;
+	    width: 110px; 
+	}
+
+	nav ul {
+	    width: 67%;
+	}
+	
+	.nav li a {
+		font-size: 0.8em;
+	}
+
+	section.third .computers {
+	   zoom: 45%;
+	}
+	
+
+	section.fifth {
+	    height: 1220px;
+	}
+
+	section.fifth .wrap_fifth {
+	    height: 1220px;
+	}
+
+	section.fifth .text-car h3 {
+	    font-size: 0.8em;
+	}
+
+	section.services {
+        min-height: 240px;
+	    height: 240px;
+	}
+	
+	
+}
+
+@media all and (max-width: 410px) { 
+	
+	.nav li a {
+	    padding: 0 5px;
+	}
+
+	nav ul {
+	    width: 65%;
+	}
+	
+	.home .text h1 span {
+	    position: relative;
+	    font-size: 0.7em;
+	}
+
+	section.fifth {
+	    height: 1280px;
+	}
+
+	section.fifth .wrap_fifth {
+	    height: 1280px;
+	}
+
+
+}
+
+
+
+@media all and (max-width: 380px) { 
+	
+	nav ul {
+	    width: 62%;
+	}
+
+	.nav li a {
+	    padding: 0 3px;
+	}
+
+	
+	section.fifth {
+	    height: 1755px;
+	}
+
+	section.fifth .wrap_fifth {
+	    height: 1755px;
+	}
+
+	ul.doctors li {
+	    margin-left: 15px;
+	    margin-right: 15px;
+	}
+	
+
+}
+
+
+@media all and (max-width: 350px) { 
+	
+	
+
+	nav ul {
+	    width: 64%;
+	}
+
+	section.third .computers {
+	   zoom: 35%;
+	}
+
+	
+
+}
+
+
+@media all and (max-width: 330px) { 
+	section.fifth {
+	    height: 1795px;
+	}
+
+	section.fifth .wrap_fifth {
+	    height: 1795px;
+	}
+}
+
+@media all and (max-width: 310px) { 
+	
+	#header {
+		overflow: hidden;
+	}
+	
+	nav ul {
+	    width: 55%;
+	    
+	}
+
+}
